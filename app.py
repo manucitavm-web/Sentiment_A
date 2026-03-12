@@ -4,7 +4,7 @@ import streamlit as st
 from PIL import Image
 from googletrans import Translator
 
-import streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie
 import json
 
 st.title('Análisis de Sentimiento')
